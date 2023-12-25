@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Security World - A practical approach to Privacy and Security</title>
+    <link>https://securityworld.com/</link>
+    <description>Recent content on Security World - A practical approach to Privacy and Security</description>
+    <image>
+      <title>Security World - A practical approach to Privacy and Security</title>
+      <url>https://securityworld.com/security-world-logo.png</url>
+      <link>https://securityworld.com/security-world-logo.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+    <lastBuildDate>Mon, 25 Dec 2023 18:30:30 +1100</lastBuildDate><atom:link href="https://securityworld.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://securityworld.com/posts/my-first-post/</link>
+      <pubDate>Mon, 25 Dec 2023 18:30:30 +1100</pubDate>
+      
+      <guid>https://securityworld.com/posts/my-first-post/</guid>
+      <description>Welcome to my new blog! This is my first post using the Hugo static site generator.
+I&amp;rsquo;ll be posting more content here soon.</description>
+      <content:encoded><![CDATA[<p>Welcome to my new blog! This is my first post using the Hugo static site generator.</p>
+<p>I&rsquo;ll be posting more content here soon.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,145 @@
+baseURL: "https://securityworld.com"
+title: Security World - A practical approach to Privacy and Security
+theme: WonderMod
+copyright: '[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)'
+enableRobotsTXT: true
+enableGitInfo: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards, and schema.
+  author: Security World Team
+  description: A practical approach to Privacy and Security
+  keywords: [Privacy, Security]
+  defaultTheme: dark # dark, light
+  disableThemeToggle: false
+  images: ["/security-world-logo.png"]
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowWordCount: true
+  ShowToc: true
+  ShowRssButtonInSectionTermList: true
+  ShowFullTextinRSS: true
+  ShowCodeCopyButtons: true
+
+  assets:
+    disableHLJS: true
+    disableFingerprinting: false
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
+
+  label:
+    text: "Security World"
+    icon: "/security-world-logo.png"
+
+  # profile-mode
+  profileMode:
+    enabled: true
+    title: Security World
+    subtitle: "A practical approach to Privacy and Security"
+    buttons:
+      - name: About
+        url: /about/
+      - name: Articles
+        url: /posts/
+      - name: Privacy Policy
+        url: /privacy/
+      - name: Support Us
+        url: /donate/
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/SecurityWorld"
+    - name: twitter
+      url: "https://twitter.com/security_world"
+    - name: reddit
+      url: "https://www.reddit.com/r/security_world"
+    - name: email
+      url: "mailto:contact@securityworld.com"
+    - name: rss
+      url: /index.xml
+
+  cover:
+    hidden: false
+    hiddenInList: true
+    hiddenInSingle: false
+
+  editPost:
+    URL: "https://github.com/SecurityWorld/securityworld.com/blob/main/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
+
+  # for search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "summary"]
+
+# Enabling Search
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+# Enable Chroma
+markup:
+    highlight:
+        style: dracula
+        lineNos: false
+        noClasses: false
+        guessSyntax: true
+
+menu:
+  main:
+    - identifier: articles
+      name: Articles
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
+    - identifier: resources
+      name: Resources
+      url: /resources/
+      weight: 40
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    anonymizeIP: true
+    disable: true
+    respectDoNotTrack: true
+    useSessionStorage: false
+  instagram:
+    disable: true
+    simple: false
+  twitter:
+    disable: false
+    enableDNT: true
+    simple: false
+  vimeo:
+    disable: false
+    enableDNT: true
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: true
+

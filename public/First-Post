@@ -1,0 +1,10 @@
+---
+title: "My First Post"
+date: 2023-04-15T11:30:03+00:00
+tags: ["introduction", "hugo"]
+draft: false
+---
+
+Welcome to my new blog! This is my first post using the Hugo static site generator.
+
+I'll be posting more content here soon.
