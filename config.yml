@@ -1,5 +1,5 @@
 baseURL: "https://securityworld.com"
-title: Security World - A practical approach to Privacy and Security
+title: BlogSec - Welcome to the age of Surveillance Capatalism
 theme: WonderMod
 copyright: '[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)'
 enableRobotsTXT: true
@@ -11,9 +11,9 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards, and schema.
-  author: Security World Team
-  description: A practical approach to Privacy and Security
-  keywords: [Privacy, Security]
+  author:  BlogSec
+  description: Welcome to the age of Surveillance Capatalism
+  keywords: [Privacy, Security, Anonymity]
   defaultTheme: dark # dark, light
   disableThemeToggle: false
   images: ["/security-world-logo.png"]
@@ -36,32 +36,25 @@ params:
     safari_pinned_tab: "/safari-pinned-tab.svg"
 
   label:
-    text: "Security World"
+    text: "BlogSec"
     icon: "/security-world-logo.png"
 
   # profile-mode
   profileMode:
     enabled: true
-    title: Security World
-    subtitle: "A practical approach to Privacy and Security"
+    title: "BlogSec"
+    subtitle: "Welcome to the age of Surveillance Capatalism"
     buttons:
       - name: About
         url: /about/
-      - name: Articles
+      - name: Blog Posts
         url: /posts/
       - name: Privacy Policy
         url: /privacy/
-      - name: Support Us
-        url: /donate/
 
   socialIcons:
     - name: github
       url: "https://github.com/SecurityWorld"
-    - name: twitter
-      url: "https://twitter.com/security_world"
-    - name: reddit
-      url: "https://www.reddit.com/r/security_world"
-    - name: email
       url: "mailto:contact@securityworld.com"
     - name: rss
       url: /index.xml
@@ -103,8 +96,8 @@ markup:
 
 menu:
   main:
-    - identifier: articles
-      name: Articles
+    - identifier: blog posts
+      name: Blog Posts
       url: /posts/
       weight: 10
     - identifier: tags
@@ -115,9 +108,9 @@ menu:
       name: Search
       url: /search/
       weight: 30
-    - identifier: resources
-      name: Resources
-      url: /resources/
+    - identifier: refrences
+      name: Refrences
+      url: /refrences/
       weight: 40
 
 privacy:
