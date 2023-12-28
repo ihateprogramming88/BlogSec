@@ -108,9 +108,9 @@ menu:
       name: Search
       url: /search/
       weight: 30
-    - identifier: refrences
-      name: Refrences
-      url: /refrences/
+    - identifier: refrencing
+      name: Refrencing
+      url: /refrencing/
       weight: 40
 
 privacy:

@@ -13,13 +13,16 @@
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
     <lastBuildDate>Mon, 25 Dec 2023 18:30:30 +1100</lastBuildDate><atom:link href="https://blogsec.site/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Refrences</title>
-      <link>https://blogsec.site/refrences1/</link>
-      <pubDate>Fri, 29 Dec 2023 00:11:58 +1100</pubDate>
+      <title>Refrencing</title>
+      <link>https://blogsec.site/refrencing/</link>
+      <pubDate>Fri, 29 Dec 2023 00:39:35 +1100</pubDate>
       
-      <guid>https://blogsec.site/refrences1/</guid>
-      <description>NAME NOTES This page is a curated list of references I&amp;rsquo;ve used in my research and writings on this blog</description>
-      <content:encoded><![CDATA[<table>
+      <guid>https://blogsec.site/refrencing/</guid>
+      <description>Refrencing This page is a curated list of references I&amp;rsquo;ve used in my research and writings on this blog.
+NAME NOTES </description>
+      <content:encoded><![CDATA[<h1 id="refrencing">Refrencing</h1>
+<p>This page is a curated list of references I&rsquo;ve used in my research and writings on this blog.</p>
+<table>
 <thead>
 <tr>
 <th style="text-align:left">NAME</th>
@@ -27,7 +30,6 @@
 </tr>
 </thead>
 </table>
-<p>This page is a curated list of references I&rsquo;ve used in my research and writings on this blog</p>
 ]]></content:encoded>
     </item>
     
