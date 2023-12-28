@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on BlogSec - Welcome to the age of Surveillance Capatalism</title>
-    <link>https://securityworld.com/tags/</link>
+    <link>https://blogsec.site/tags/</link>
     <description>Recent content in Tags on BlogSec - Welcome to the age of Surveillance Capatalism</description>
     <image>
       <title>BlogSec - Welcome to the age of Surveillance Capatalism</title>
-      <url>https://securityworld.com/security-world-logo.png</url>
-      <link>https://securityworld.com/security-world-logo.png</link>
+      <url>https://blogsec.site/security-world-logo.png</url>
+      <link>https://blogsec.site/security-world-logo.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright><atom:link href="https://securityworld.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright><atom:link href="https://blogsec.site/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

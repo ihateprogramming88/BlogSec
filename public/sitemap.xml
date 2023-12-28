@@ -2,20 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://securityworld.com/about/</loc>
-    <lastmod>2023-12-28T23:38:46+11:00</lastmod>
+    <loc>https://blogsec.site/about/</loc>
+    <lastmod>2023-12-28T23:55:32+11:00</lastmod>
   </url><url>
-    <loc>https://securityworld.com/</loc>
+    <loc>https://blogsec.site/</loc>
     <lastmod>2023-12-25T18:43:20+11:00</lastmod>
   </url><url>
-    <loc>https://securityworld.com/posts/my-first-post/</loc>
+    <loc>https://blogsec.site/posts/my-first-post/</loc>
     <lastmod>2023-12-25T18:43:20+11:00</lastmod>
   </url><url>
-    <loc>https://securityworld.com/posts/</loc>
+    <loc>https://blogsec.site/posts/</loc>
     <lastmod>2023-12-25T18:43:20+11:00</lastmod>
   </url><url>
-    <loc>https://securityworld.com/categories/</loc>
+    <loc>https://blogsec.site/categories/</loc>
   </url><url>
-    <loc>https://securityworld.com/tags/</loc>
+    <loc>https://blogsec.site/search/</loc>
+  </url><url>
+    <loc>https://blogsec.site/tags/</loc>
   </url>
 </urlset>
