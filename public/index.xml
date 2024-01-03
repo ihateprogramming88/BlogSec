@@ -18,7 +18,7 @@
         <link rel="alternate" href="https://blogsec.site/acknowledgements/" />
         <id>https://blogsec.site/acknowledgements/</id>
         <published>2024-01-03T00:00:00Z</published>
-        <updated>2024-01-03T00:00:00Z</updated>
+        <updated>2024-01-03T22:41:14+11:00</updated>
         <summary type="html">We are greateful to the following developers and other projects that motivated us and equipped us to conceptualize BlogSec.</summary>
           <content type="html"><![CDATA[<p>We are greateful to the following developers and other projects that motivated us and equipped us to conceptualize BlogSec.</p>
 ]]></content>
@@ -28,7 +28,7 @@
         <link rel="alternate" href="https://blogsec.site/refrencing/" />
         <id>https://blogsec.site/refrencing/</id>
         <published>2023-12-29T00:39:35+11:00</published>
-        <updated>2023-12-29T00:42:33+11:00</updated>
+        <updated>2024-01-03T22:41:14+11:00</updated>
         <summary type="html">This page is a curated list of references I&amp;rsquo;ve used in my research and writings on this blog.
 NAME NOTES </summary>
           <content type="html"><![CDATA[<p>This page is a curated list of references I&rsquo;ve used in my research and writings on this blog.</p>
@@ -47,10 +47,10 @@ NAME NOTES </summary>
         <link rel="alternate" href="https://blogsec.site/about/" />
         <id>https://blogsec.site/about/</id>
         <published>2023-12-28T23:38:46+11:00</published>
-        <updated>2023-12-28T23:55:32+11:00</updated>
-        <summary type="html">A group of individuals highly interested in all forms of computing. The objective of creating this blog was to create a space where we could share ideas, concepts, objective facts, and challenges posed with when dealing with sometimes extremely simple or highly technical aspects of computing. This blog will mainly focus on all forms of security, privacy, anonymity, and operational security.
+        <updated>2024-01-03T22:41:14+11:00</updated>
+        <summary type="html">A group of individuals highly interested in all forms of computing. This blog is a space where we share ideas, concepts, objective facts, and discuss challenges when dealing with sometimes simple or technical aspects of computers. This blog will mainly focus on all forms of security, privacy, anonymity, and operational security.
 Another key focus of our blog is to deal with common misconceptions, logical fallacies, and misinformation often seen online and correct the discourse surrounding certain points-of-interests in cyber-security.</summary>
-          <content type="html"><![CDATA[<p>A group of individuals highly interested in all forms of computing. The objective of creating this blog was to create a space where we could share ideas, concepts, objective facts, and challenges posed with when dealing with sometimes extremely simple or highly technical aspects of computing. This blog will mainly focus on all forms of security, privacy, anonymity, and operational security.</p>
+          <content type="html"><![CDATA[<p>A group of individuals highly interested in all forms of computing. This blog is a space where we share ideas, concepts, objective facts, and discuss challenges when dealing with sometimes simple or technical aspects of computers. This blog will mainly focus on all forms of security, privacy, anonymity, and operational security.</p>
 <p>Another key focus of our blog is to deal with common misconceptions, logical fallacies, and misinformation often seen online and correct the discourse surrounding certain points-of-interests in cyber-security. We aim to provide objective, logically coherent, and structured arguments back by empirical evidence on our blog posts.</p>
 <p>The blog&rsquo;s content mainly comes from thoughts from myself or conversations had with other geeky-intelligent companions on the internet and in the real world.</p>
 <p>We are students of computer science, cyber-security, and other scientific disciplines.</p>
@@ -64,7 +64,7 @@ Another key focus of our blog is to deal with common misconceptions, logical fal
         <link rel="alternate" href="https://blogsec.site/posts/my-first-post/" />
         <id>https://blogsec.site/posts/my-first-post/</id>
         <published>2023-12-25T18:30:30+11:00</published>
-        <updated>2023-12-25T18:43:20+11:00</updated>
+        <updated>2024-01-03T22:41:14+11:00</updated>
         <summary type="html">Welcome to our blog, in the very near future there will be new blog posts added.</summary>
           <content type="html"><![CDATA[<p>Welcome to our blog, in the very near future there will be new blog posts added.</p>
 <p><img loading="lazy" src="/images/220px-Logic-gate-and-us.png" alt="Description of the image"  />
@@ -76,7 +76,7 @@ Another key focus of our blog is to deal with common misconceptions, logical fal
         <link rel="alternate" href="https://blogsec.site/privacy/" />
         <id>https://blogsec.site/privacy/</id>
         <published>0001-01-01T00:00:00Z</published>
-        <updated>0001-01-01T00:00:00Z</updated>
+        <updated>2024-01-03T22:41:14+11:00</updated>
         <summary type="html">Data We Collect We collect no personal data.
 Cookies We do not use cookies to track behavior or compile any browsing habits.
 Third-Party Services Our website is hosted by Netlify and DNS services are provided by Cloudflare. These services adhere to their privacy policies and provide us with internet hosting and domain name services, respectively, but we do not use their tracking features.
