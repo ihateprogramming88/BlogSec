@@ -48,15 +48,14 @@ params:
     buttons:
       - name: About
         url: /about/
-      - name: Blog Posts
-        url: /posts/
+      - name: Acknowledgements
+        url: /acknowledgements/
       - name: Privacy Policy
         url: /privacy/
 
   socialIcons:
     - name: github
-      url: "https://github.com/SecurityWorld"
-      url: "mailto:contact@securityworld.com"
+      url: "https://github.com/ihateprogramming88"
     - name: rss
       url: /index.xml
 
@@ -66,7 +65,7 @@ params:
     hiddenInSingle: false
 
   editPost:
-    URL: "https://github.com/SecurityWorld/securityworld.com/blob/main/content"
+    URL: "https://github.com/ihateprogramming88/BlogSec/tree/master/content"
     Text: "Suggest Changes"
     appendFilePath: true
 

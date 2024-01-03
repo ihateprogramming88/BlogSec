@@ -19,10 +19,10 @@
         <id>https://blogsec.site/posts/my-first-post/</id>
         <published>2023-12-25T18:30:30+11:00</published>
         <updated>2023-12-25T18:43:20+11:00</updated>
-        <summary type="html">Welcome to my new blog! This is my first post using the Hugo static site generator.
-I&amp;rsquo;ll be posting more content here soon.</summary>
-          <content type="html"><![CDATA[<p>Welcome to my new blog! This is my first post using the Hugo static site generator.</p>
-<p>I&rsquo;ll be posting more content here soon.</p>
+        <summary type="html">Welcome to our blog, in the very near future there will be new blog posts added.</summary>
+          <content type="html"><![CDATA[<p>Welcome to our blog, in the very near future there will be new blog posts added.</p>
+<p><img loading="lazy" src="/images/220px-Logic-gate-and-us.png" alt="Description of the image"  />
+</p>
 ]]></content>
       </entry>
 

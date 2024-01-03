@@ -14,15 +14,24 @@
   </author>
   <rights>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
       <entry>
+        <title>Acknowledgements</title>
+        <link rel="alternate" href="https://blogsec.site/acknowledgements/" />
+        <id>https://blogsec.site/acknowledgements/</id>
+        <published>2024-01-03T00:00:00Z</published>
+        <updated>2024-01-03T00:00:00Z</updated>
+        <summary type="html">We are greateful to the following developers and other projects that motivated us and equipped us to conceptualize BlogSec.</summary>
+          <content type="html"><![CDATA[<p>We are greateful to the following developers and other projects that motivated us and equipped us to conceptualize BlogSec.</p>
+]]></content>
+      </entry>
+      <entry>
         <title>Refrencing</title>
         <link rel="alternate" href="https://blogsec.site/refrencing/" />
         <id>https://blogsec.site/refrencing/</id>
         <published>2023-12-29T00:39:35+11:00</published>
         <updated>2023-12-29T00:42:33+11:00</updated>
-        <summary type="html">Refrencing This page is a curated list of references I&amp;rsquo;ve used in my research and writings on this blog.
+        <summary type="html">This page is a curated list of references I&amp;rsquo;ve used in my research and writings on this blog.
 NAME NOTES </summary>
-          <content type="html"><![CDATA[<h1 id="refrencing">Refrencing</h1>
-<p>This page is a curated list of references I&rsquo;ve used in my research and writings on this blog.</p>
+          <content type="html"><![CDATA[<p>This page is a curated list of references I&rsquo;ve used in my research and writings on this blog.</p>
 <table>
 <thead>
 <tr>
@@ -39,9 +48,15 @@ NAME NOTES </summary>
         <id>https://blogsec.site/about/</id>
         <published>2023-12-28T23:38:46+11:00</published>
         <updated>2023-12-28T23:55:32+11:00</updated>
-        <summary type="html">About Me A blog about computer security, privacy, and anonymity in the age of surveillance capatalism.</summary>
-          <content type="html"><![CDATA[<h2 id="about-me">About Me</h2>
-<p>A blog about computer security, privacy, and anonymity in the age of surveillance capatalism.</p>
+        <summary type="html">A group of individuals highly interested in all forms of computing. The objective of creating this blog was to create a space where we could share ideas, concepts, objective facts, and challenges posed with when dealing with sometimes extremely simple or highly technical aspects of computing. This blog will mainly focus on all forms of security, privacy, anonymity, and operational security.
+Another key focus of our blog is to deal with common misconceptions, logical fallacies, and misinformation often seen online and correct the discourse surrounding certain points-of-interests in cyber-security.</summary>
+          <content type="html"><![CDATA[<p>A group of individuals highly interested in all forms of computing. The objective of creating this blog was to create a space where we could share ideas, concepts, objective facts, and challenges posed with when dealing with sometimes extremely simple or highly technical aspects of computing. This blog will mainly focus on all forms of security, privacy, anonymity, and operational security.</p>
+<p>Another key focus of our blog is to deal with common misconceptions, logical fallacies, and misinformation often seen online and correct the discourse surrounding certain points-of-interests in cyber-security. We aim to provide objective, logically coherent, and structured arguments back by empirical evidence on our blog posts.</p>
+<p>The blog&rsquo;s content mainly comes from thoughts from myself or conversations had with other geeky-intelligent companions on the internet and in the real world.</p>
+<p>We are students of computer science, cyber-security, and other scientific disciplines.</p>
+<h3 id="ihateprogramming88">ihateprogramming88</h3>
+<p><strong>GitHub</strong>:<a href="https://github.com/ihateprogramming88">ihateprogramming88</a></p>
+<p><strong>Signal</strong>: +1810 243-3033</p>
 ]]></content>
       </entry>
       <entry>
@@ -50,10 +65,30 @@ NAME NOTES </summary>
         <id>https://blogsec.site/posts/my-first-post/</id>
         <published>2023-12-25T18:30:30+11:00</published>
         <updated>2023-12-25T18:43:20+11:00</updated>
-        <summary type="html">Welcome to my new blog! This is my first post using the Hugo static site generator.
-I&amp;rsquo;ll be posting more content here soon.</summary>
-          <content type="html"><![CDATA[<p>Welcome to my new blog! This is my first post using the Hugo static site generator.</p>
-<p>I&rsquo;ll be posting more content here soon.</p>
+        <summary type="html">Welcome to our blog, in the very near future there will be new blog posts added.</summary>
+          <content type="html"><![CDATA[<p>Welcome to our blog, in the very near future there will be new blog posts added.</p>
+<p><img loading="lazy" src="/images/220px-Logic-gate-and-us.png" alt="Description of the image"  />
+</p>
+]]></content>
+      </entry>
+      <entry>
+        <title>Privacy Policy</title>
+        <link rel="alternate" href="https://blogsec.site/privacy/" />
+        <id>https://blogsec.site/privacy/</id>
+        <published>0001-01-01T00:00:00Z</published>
+        <updated>0001-01-01T00:00:00Z</updated>
+        <summary type="html">Data We Collect We collect no personal data.
+Cookies We do not use cookies to track behavior or compile any browsing habits.
+Third-Party Services Our website is hosted by Netlify and DNS services are provided by Cloudflare. These services adhere to their privacy policies and provide us with internet hosting and domain name services, respectively, but we do not use their tracking features.
+Changes to Our Privacy Policy Any changes we may make to our privacy policy in the future will be posted on this page.</summary>
+          <content type="html"><![CDATA[<h1 id="data-we-collect">Data We Collect</h1>
+<p>We collect no personal data.</p>
+<h2 id="cookies">Cookies</h2>
+<p>We do not use cookies to track behavior or compile any browsing habits.</p>
+<h2 id="third-party-services">Third-Party Services</h2>
+<p>Our website is hosted by Netlify and DNS services are provided by Cloudflare. These services adhere to their privacy policies and provide us with internet hosting and domain name services, respectively, but we do not use their tracking features.</p>
+<h2 id="changes-to-our-privacy-policy">Changes to Our Privacy Policy</h2>
+<p>Any changes we may make to our privacy policy in the future will be posted on this page.</p>
 ]]></content>
       </entry>
 
