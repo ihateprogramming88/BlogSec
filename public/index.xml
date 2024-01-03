@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>BlogSec - Welcome to the age of Surveillance Capatalism</title>
-    <link>https://blogsec.site/</link>
-    <description>Recent content on BlogSec - Welcome to the age of Surveillance Capatalism</description>
-    <image>
-      <title>BlogSec - Welcome to the age of Surveillance Capatalism</title>
-      <url>https://blogsec.site/security-world-logo.png</url>
-      <link>https://blogsec.site/security-world-logo.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
-    <lastBuildDate>Mon, 25 Dec 2023 18:30:30 +1100</lastBuildDate><atom:link href="https://blogsec.site/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Refrencing</title>
-      <link>https://blogsec.site/refrencing/</link>
-      <pubDate>Fri, 29 Dec 2023 00:39:35 +1100</pubDate>
-      
-      <guid>https://blogsec.site/refrencing/</guid>
-      <description>Refrencing This page is a curated list of references I&amp;rsquo;ve used in my research and writings on this blog.
-NAME NOTES </description>
-      <content:encoded><![CDATA[<h1 id="refrencing">Refrencing</h1>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BlogSec - Welcome to the age of Surveillance Capatalism</title>
+  <link rel="alternate" href="https://blogsec.site/" />
+  <link rel="self" href="https://blogsec.site/index.xml" />
+  <subtitle>Recent content on BlogSec - Welcome to the age of Surveillance Capatalism</subtitle>
+  <id>https://blogsec.site/</id>
+  <generator uri="http://gohugo.io" version="0.121.1">Hugo</generator>
+  <language>en-us</language>
+  <updated>2023-12-25T18:30:30+11:00</updated>
+  <author>
+    <name>BlogSec</name>
+    
+  </author>
+  <rights>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
+      <entry>
+        <title>Refrencing</title>
+        <link rel="alternate" href="https://blogsec.site/refrencing/" />
+        <id>https://blogsec.site/refrencing/</id>
+        <published>2023-12-29T00:39:35+11:00</published>
+        <updated>2023-12-29T00:42:33+11:00</updated>
+        <summary type="html">Refrencing This page is a curated list of references I&amp;rsquo;ve used in my research and writings on this blog.
+NAME NOTES </summary>
+          <content type="html"><![CDATA[<h1 id="refrencing">Refrencing</h1>
 <p>This page is a curated list of references I&rsquo;ve used in my research and writings on this blog.</p>
 <table>
 <thead>
@@ -30,34 +31,32 @@ NAME NOTES </description>
 </tr>
 </thead>
 </table>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://blogsec.site/about/</link>
-      <pubDate>Thu, 28 Dec 2023 23:38:46 +1100</pubDate>
-      
-      <guid>https://blogsec.site/about/</guid>
-      <description>About Me A blog about computer security, privacy, and anonymity in the age of surveillance capatalism.</description>
-      <content:encoded><![CDATA[<h2 id="about-me">About Me</h2>
+]]></content>
+      </entry>
+      <entry>
+        <title>About</title>
+        <link rel="alternate" href="https://blogsec.site/about/" />
+        <id>https://blogsec.site/about/</id>
+        <published>2023-12-28T23:38:46+11:00</published>
+        <updated>2023-12-28T23:55:32+11:00</updated>
+        <summary type="html">About Me A blog about computer security, privacy, and anonymity in the age of surveillance capatalism.</summary>
+          <content type="html"><![CDATA[<h2 id="about-me">About Me</h2>
 <p>A blog about computer security, privacy, and anonymity in the age of surveillance capatalism.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://blogsec.site/posts/my-first-post/</link>
-      <pubDate>Mon, 25 Dec 2023 18:30:30 +1100</pubDate>
-      
-      <guid>https://blogsec.site/posts/my-first-post/</guid>
-      <description>Welcome to my new blog! This is my first post using the Hugo static site generator.
-I&amp;rsquo;ll be posting more content here soon.</description>
-      <content:encoded><![CDATA[<p>Welcome to my new blog! This is my first post using the Hugo static site generator.</p>
+]]></content>
+      </entry>
+      <entry>
+        <title>My First Post</title>
+        <link rel="alternate" href="https://blogsec.site/posts/my-first-post/" />
+        <id>https://blogsec.site/posts/my-first-post/</id>
+        <published>2023-12-25T18:30:30+11:00</published>
+        <updated>2023-12-25T18:43:20+11:00</updated>
+        <summary type="html">Welcome to my new blog! This is my first post using the Hugo static site generator.
+I&amp;rsquo;ll be posting more content here soon.</summary>
+          <content type="html"><![CDATA[<p>Welcome to my new blog! This is my first post using the Hugo static site generator.</p>
 <p>I&rsquo;ll be posting more content here soon.</p>
-]]></content:encoded>
-    </item>
-    
-    
-  </channel>
-</rss>
+]]></content>
+      </entry>
+
+</feed>
+
+

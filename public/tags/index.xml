@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tags on BlogSec - Welcome to the age of Surveillance Capatalism</title>
-    <link>https://blogsec.site/tags/</link>
-    <description>Recent content in Tags on BlogSec - Welcome to the age of Surveillance Capatalism</description>
-    <image>
-      <title>BlogSec - Welcome to the age of Surveillance Capatalism</title>
-      <url>https://blogsec.site/security-world-logo.png</url>
-      <link>https://blogsec.site/security-world-logo.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright><atom:link href="https://blogsec.site/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tags on BlogSec - Welcome to the age of Surveillance Capatalism</title>
+  <link rel="alternate" href="https://blogsec.site/tags/" />
+  <link rel="self" href="https://blogsec.site/tags/index.xml" />
+  <subtitle>Recent content in Tags on BlogSec - Welcome to the age of Surveillance Capatalism</subtitle>
+  <id>https://blogsec.site/tags/</id>
+  <generator uri="http://gohugo.io" version="0.121.1">Hugo</generator>
+  <language>en-us</language>
+  <updated>0001-01-01T00:00:00Z</updated>
+  <author>
+    <name>BlogSec</name>
+    
+  </author>
+  <rights>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
+
+</feed>
+
+

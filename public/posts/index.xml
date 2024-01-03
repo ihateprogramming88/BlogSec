@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Posts on BlogSec - Welcome to the age of Surveillance Capatalism</title>
-    <link>https://blogsec.site/posts/</link>
-    <description>Recent content in Posts on BlogSec - Welcome to the age of Surveillance Capatalism</description>
-    <image>
-      <title>BlogSec - Welcome to the age of Surveillance Capatalism</title>
-      <url>https://blogsec.site/security-world-logo.png</url>
-      <link>https://blogsec.site/security-world-logo.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
-    <lastBuildDate>Mon, 25 Dec 2023 18:30:30 +1100</lastBuildDate><atom:link href="https://blogsec.site/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>https://blogsec.site/posts/my-first-post/</link>
-      <pubDate>Mon, 25 Dec 2023 18:30:30 +1100</pubDate>
-      
-      <guid>https://blogsec.site/posts/my-first-post/</guid>
-      <description>Welcome to my new blog! This is my first post using the Hugo static site generator.
-I&amp;rsquo;ll be posting more content here soon.</description>
-      <content:encoded><![CDATA[<p>Welcome to my new blog! This is my first post using the Hugo static site generator.</p>
-<p>I&rsquo;ll be posting more content here soon.</p>
-]]></content:encoded>
-    </item>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Posts on BlogSec - Welcome to the age of Surveillance Capatalism</title>
+  <link rel="alternate" href="https://blogsec.site/posts/" />
+  <link rel="self" href="https://blogsec.site/posts/index.xml" />
+  <subtitle>Recent content in Posts on BlogSec - Welcome to the age of Surveillance Capatalism</subtitle>
+  <id>https://blogsec.site/posts/</id>
+  <generator uri="http://gohugo.io" version="0.121.1">Hugo</generator>
+  <language>en-us</language>
+  <updated>2023-12-25T18:30:30+11:00</updated>
+  <author>
+    <name>BlogSec</name>
     
-  </channel>
-</rss>
+  </author>
+  <rights>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
+      <entry>
+        <title>My First Post</title>
+        <link rel="alternate" href="https://blogsec.site/posts/my-first-post/" />
+        <id>https://blogsec.site/posts/my-first-post/</id>
+        <published>2023-12-25T18:30:30+11:00</published>
+        <updated>2023-12-25T18:43:20+11:00</updated>
+        <summary type="html">Welcome to my new blog! This is my first post using the Hugo static site generator.
+I&amp;rsquo;ll be posting more content here soon.</summary>
+          <content type="html"><![CDATA[<p>Welcome to my new blog! This is my first post using the Hugo static site generator.</p>
+<p>I&rsquo;ll be posting more content here soon.</p>
+]]></content>
+      </entry>
+
+</feed>
+
+
